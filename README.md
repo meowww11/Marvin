@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Marvin Preview]([Marvin/assets/pixel .jpg])
+![Marvin Preview](assets/pixel.jpg)
 
 Marvin is an autonomous robot designed to navigate using Lidar and ultrasonic sensors.It performs obstacle detection and avoidance using Arduino and Python. The robot uses an **RPLidar** sensor for mapping its environment and ultrasonic sensors for detecting obstacles.
 
